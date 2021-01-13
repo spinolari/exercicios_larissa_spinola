@@ -8,15 +8,16 @@ Label Root
 		Label FIRM
 		{
 			Var: X
-			Var: c
 			Param: max
 			Param: min
+			Var: c
 
 		}
 
 		Var: X_Sum
 		Var: X_Ave
 		Var: X_Max
+		Var: X_Share
 
 	}
 
@@ -32,12 +33,13 @@ Object: SECTOR C	1
 Var: X_Sum 0 s + n p
 Var: X_Ave 0 s + n p
 Var: X_Max 0 s + n p
+Var: X_Share 0 s + n p
 
 Object: FIRM C	10
-Var: X 1 s + n p	0	0	0	0	0	0	0	0	0	0
-Var: c 0 n + n n
+Var: X 1 s + n n	0	0	0	0	0	0	0	0	0	0
 Param: max 0 n + n n	1	1	1	1	1	1	1	1	1	1
 Param: min 0 n + n n	0	0	0	0	0	0	0	0	0	0
+Var: c 0 n + n n
 
 SIM_NUM 1
 SEED 1
@@ -53,42 +55,48 @@ END_DESCRIPTION
 
 Object_SECTOR
 (no description available)
+_INIT_
+
 END_DESCRIPTION
 
 Variable_X_Sum
 Variável do Setor
-
+SOMA
+_INIT_
 
 END_DESCRIPTION
 
 Variable_X_Ave
 Variável do Setor
-
+MÉDIA
+_INIT_
 
 END_DESCRIPTION
 
 Variable_X_Max
 Variável do Setor
+MÁXIMO
+_INIT_
+
+END_DESCRIPTION
+
+Variable_X_Share
+Variável do Setor
+PARCELA DE CADA FIRMA
 
 
 END_DESCRIPTION
 
 Object_FIRM
 (no description available)
+_INIT_
+
 END_DESCRIPTION
 
 Variable_X
 Variável X (short form)
-
-
 _INIT_
-All 10 instances equal to 0.
-END_DESCRIPTION
-
-Variable_c
-Random walk
-
-
+All 10 instances drawn from uniform distribution between 0 and 0.
 END_DESCRIPTION
 
 Parameter_max
@@ -101,6 +109,12 @@ Parameter_min
 (no description available)
 _INIT_
 All 10 instances equal to 0.
+END_DESCRIPTION
+
+Variable_c
+Random walk
+_INIT_
+
 END_DESCRIPTION
 
 
@@ -147,21 +161,45 @@ RESULT(v[2])
 EQUATION("X_Sum")
 /*
 Variável do Setor
+SOMA
 */
-RESULT(SUM("X"))
+v[0]=0;
+CYCLE(cur, "FIRM")
+{
+	v[1]=VS(cur,"X");
+	v[0]=v[0]+v[1];
+}
+
+RESULT(v[0])
 
 EQUATION("X_Ave")
 /*
 Variável do Setor
+MÉDIA
 */
-RESULT(AVE("X"))
+
+v[0]=0;
+CYCLE(cur, "FIRM")
+{
+	v[1]=VS(cur,"X");
+	v[0]=(v[0]+v[1])/COUNT("FIRM");
+}
+
+RESULT(v[0])
 
 EQUATION("X_Max")
 /*
 Variável do Setor
+MÁXIMO
 */
-RESULT(MAX("X"))
 
+v[0]=0;
+CYCLE(cur, "FIRM")
+{
+	v[1]=VS(cur, "X");
+	if(v[1]>v[0]) 	v[0]=v[1]; else v[0]=v[0];
+}
+RESULT(v[0])
 
 MODELEND
 

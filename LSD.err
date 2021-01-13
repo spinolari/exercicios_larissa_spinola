@@ -1,0 +1,4364 @@
+
+
+====================> NEW TCL SESSION
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 0 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:22)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+$activeplot.c.c.cn scale punto 0 $vsizeR 1 %lf
+Message:
+floating point value is Not a Number
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y1 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----
+
+(01/13/21 09:47:23)
+Command:
+set y2 [ expr floor( $sclvmarginR + ( $vsizeR - ( ( %lf - %lf ) / ( %lf - %lf ) ) * $vsizeR ) ) ]
+Message:
+can't use non-numeric floating-point value as operand of "-"
+-----

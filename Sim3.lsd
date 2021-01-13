@@ -1,13 +1,22 @@
 	
 Label Root
 {
-	Son: MODEL
-	Label MODEL
+	Son: SECTOR
+	Label SECTOR
 	{
-		Var: X
-		Var: c
-		Param: max
-		Param: min
+		Son: FIRM
+		Label FIRM
+		{
+			Var: X
+			Var: c
+			Param: max
+			Param: min
+
+		}
+
+		Var: X_Sum
+		Var: X_Ave
+		Var: X_Max
 
 	}
 
@@ -19,11 +28,16 @@ DATA
 
 Object: Root C	1
 
-Object: MODEL C	10
-Var: X 1 s + n p	0	0	0	0	0	0	0	0	0	0
+Object: SECTOR C	1
+Var: X_Sum 0 s + n p
+Var: X_Ave 0 s + n p
+Var: X_Max 0 s + n p
+
+Object: FIRM C	10
+Var: X 1 s + n n	0	0	0	0	0	0	0	0	0	0
 Var: c 0 n + n n
 Param: max 0 n + n n	1	1	1	1	1	1	1	1	1	1
-Param: min 0 n + n n	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Param: min 0 n + n n	0	0	0	0	0	0	0	0	0	0
 
 SIM_NUM 1
 SEED 1
@@ -37,7 +51,31 @@ Object_Root
 (no description available)
 END_DESCRIPTION
 
-Object_MODEL
+Object_SECTOR
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
+Variable_X_Sum
+Variável do Setor
+_INIT_
+
+END_DESCRIPTION
+
+Variable_X_Ave
+Variável do Setor
+_INIT_
+
+END_DESCRIPTION
+
+Variable_X_Max
+Variável do Setor
+_INIT_
+
+END_DESCRIPTION
+
+Object_FIRM
 (no description available)
 _INIT_
 
@@ -46,7 +84,7 @@ END_DESCRIPTION
 Variable_X
 Variável X (short form)
 _INIT_
-All 1 instances equal to 0.
+All 10 instances equal to 0.
 END_DESCRIPTION
 
 Variable_c
@@ -58,13 +96,13 @@ END_DESCRIPTION
 Parameter_max
 (no description available)
 _INIT_
-All 1 instances equal to 1.
+All 10 instances equal to 1.
 END_DESCRIPTION
 
 Parameter_min
 (no description available)
 _INIT_
-All 1 instances equal to -1.
+All 10 instances equal to 0.
 END_DESCRIPTION
 
 
@@ -108,8 +146,30 @@ v[1]=V("max");
 v[2]=uniform(v[0], v[1]);
 RESULT(v[2])
 
+EQUATION("X_Sum")
+/*
+Variável do Setor
+*/
+v[0]=0;
+CYCLE(cur, "FIRM")
+{
+	v[1]=VS(cur,"X");
+	v[0]=v[0]+v[1];
+}
 
+RESULT(v[0])
 
+EQUATION("X_Ave")
+/*
+Variável do Setor
+*/
+RESULT(AVE("X"))
+
+EQUATION("X_Max")
+/*
+Variável do Setor
+*/
+RESULT(MAX("X"))
 
 
 MODELEND
