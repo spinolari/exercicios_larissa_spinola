@@ -5,7 +5,9 @@ Label Root
 	Label MODEL
 	{
 		Var: X
-		Param: c
+		Var: c
+		Param: max
+		Param: min
 
 	}
 
@@ -18,8 +20,10 @@ DATA
 Object: Root C	1
 
 Object: MODEL C	1
-Var: X 1 s - n p	0
-Param: c 0 n - n n	0
+Var: X 1 s + n p	0
+Var: c 0 n + n n
+Param: max 0 n + n n	1
+Param: min 0 n + n n	-1
 
 SIM_NUM 1
 SEED 1
@@ -38,13 +42,29 @@ Object_MODEL
 END_DESCRIPTION
 
 Variable_X
-Variável X
+Variável X (short form)
+
+
+_INIT_
+All 1 instances equal to 0.
+END_DESCRIPTION
+
+Variable_c
+Random walk
 
 
 END_DESCRIPTION
 
-Parameter_c
+Parameter_max
 (no description available)
+_INIT_
+All 1 instances equal to 1.
+END_DESCRIPTION
+
+Parameter_min
+(no description available)
+_INIT_
+All 1 instances equal to -1.
 END_DESCRIPTION
 
 
@@ -72,16 +92,21 @@ MODELBEGIN
 
 EQUATION("X")
 /*
-Variável X
+Variável X (short form)
 */
 
 RESULT(VL("X",1)+V("c"))
 
 
+EQUATION("c")
+/*
+Random walk
+*/
 
-
-
-
+v[0]=V("min");
+v[1]=V("max");
+v[2]=uniform(v[0], v[1]);
+RESULT(v[2])
 
 
 

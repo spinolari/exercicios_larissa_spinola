@@ -11,16 +11,21 @@ MODELBEGIN
 
 EQUATION("X")
 /*
-Variável X
+Variável X (short form)
 */
 
 RESULT(VL("X",1)+V("c"))
 
 
+EQUATION("c")
+/*
+Random walk
+*/
 
-
-
-
+v[0]=V("min");
+v[1]=V("max");
+v[2]=uniform(v[0], v[1]);
+RESULT(v[2])
 
 
 
