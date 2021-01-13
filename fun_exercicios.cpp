@@ -52,10 +52,11 @@ CYCLE(cur, "FIRM")
 {
 	v[1]=VS(cur,"X");
 	v[0]=(v[0]+v[1]);
-	v[2]=v[0]/COUNT("FIRM");
+	v[2]=COUNT("FIRM");
+	v[3]=v[0]/v[2];
 }
 
-RESULT(v[2])
+RESULT(v[3])
 
 EQUATION("X_Max")
 /*
@@ -67,17 +68,26 @@ v[0]=0;
 CYCLE(cur, "FIRM")
 {
 	v[1]=VS(cur, "X");
-	if(v[1]>v[0]) 	v[0]=v[1]; else v[0]=v[0];
+	if(v[1]>v[0])
+		v[0]=v[1];
+	else 
+		v[0]=v[0];
 }
 RESULT(v[0])
 
 EQUATION("X_Share")
 /*
-Variável do Setor
+Variável da Firma
 PARCELA DE CADA FIRMA
 */
+	v[0]=V("X");
+	v[1]=V("X_Sum");
+	if(v[1]!=0)
+		v[2]=v[0]/v[1];
+	else 
+		v[2]=0;
 
-RESULT(V("X")/V("X_Sum"))
+RESULT(v[2])
 
 EQUATION("X_Share_Sum")
 /*
@@ -85,25 +95,17 @@ Variável do Setor
 SOMA DAS PARCELAS DE TODAS AS FIRMAS
 */
 
-v[0]=0;
-CYCLE(cur, "FIRM")
-{
-	v[1]=VS(cur,"X_Share");
-	v[0]=v[0]+v[1];
-}
-RESULT(v[0])
+RESULT(SUM("X_Share"))
 
 /*
 DESAFIO: POSIÇÃO DA FIRMA COM MAIOR X A CADA PERÍODO DE TEMPO
 */
 
 EQUATION("X_Pos")
-
-CYCLE(cur, "FIRM")
-{
-	v[1]=VS(cur,"X_Max");
-	v[2]= TSEARCH(v[1], pos);
-}
+	v[0]=V("X_Max");
+	cur1=SEARCH_CND("X",v[0]);
+	v[1]= SEARCH_INST(cur1);
+RESULT(v[1])
 
 
 

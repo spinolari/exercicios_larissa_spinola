@@ -11,14 +11,15 @@ Label Root
 			Param: max
 			Param: min
 			Var: c
+			Var: X_Share
 
 		}
 
 		Var: X_Sum
 		Var: X_Ave
 		Var: X_Max
-		Var: X_Share
 		Var: X_Share_Sum
+		Var: X_Pos
 
 	}
 
@@ -34,14 +35,15 @@ Object: SECTOR C	1
 Var: X_Sum 0 s + n p
 Var: X_Ave 0 s + n p
 Var: X_Max 0 s + n p
-Var: X_Share 0 s + n p
 Var: X_Share_Sum 0 s + n p
+Var: X_Pos 0 s + n p
 
 Object: FIRM C	10
 Var: X 1 s + n n	0	0	0	0	0	0	0	0	0	0
 Param: max 0 n + n n	1	1	1	1	1	1	1	1	1	1
 Param: min 0 n + n n	0	0	0	0	0	0	0	0	0	0
 Var: c 0 n + n n
+Var: X_Share 0 s + n p
 
 SIM_NUM 1
 SEED 1
@@ -82,17 +84,16 @@ _INIT_
 
 END_DESCRIPTION
 
-Variable_X_Share
+Variable_X_Share_Sum
 Variável do Setor
-PARCELA DE CADA FIRMA
+SOMA DAS PARCELAS DE TODAS AS FIRMA
 _INIT_
 
 END_DESCRIPTION
 
-Variable_X_Share_Sum
-Variável do Setor
-SOMA DAS PARCELAS DE TODAS AS FIRMA
-
+Variable_X_Pos
+(no description available)
+_INIT_
 
 END_DESCRIPTION
 
@@ -122,6 +123,13 @@ END_DESCRIPTION
 
 Variable_c
 Random walk
+_INIT_
+
+END_DESCRIPTION
+
+Variable_X_Share
+Variável do Setor
+PARCELA DE CADA FIRMA
 _INIT_
 
 END_DESCRIPTION

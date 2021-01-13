@@ -1,2 +1,2 @@
-c X X_Ave X_Max X_Share X_Share_Sum X_Sum
+c X X_Ave X_Max X_Pos X_Share X_Share_Sum X_Sum
 max min
