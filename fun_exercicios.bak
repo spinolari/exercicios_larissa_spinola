@@ -104,8 +104,8 @@ DESAFIO: POSIÇÃO DA FIRMA COM MAIOR X A CADA PERÍODO DE TEMPO
 
 EQUATION("X_Pos")
 	v[0]=V("X_Max");
-	cur=SEARCH_CND("X",v[0]);
-	v[1]= SEARCH_INST(cur);
+	cur1=SEARCH_CND("X",v[0]);
+	v[1]= SEARCH_INST(cur1);
 RESULT(v[1])
 
 /*
@@ -118,31 +118,66 @@ Essa variável deve fazer um CYCLE nas firmas e ESCREVER a posição da firma no ra
 */
 
 EQUATION("RANK")
+v[0]=0;
+CYCLE(cur2, "FIRM")
+{
+	v[1]=VS(cur2,"X_Share");
+CYCLE(cur3, "FIRM")
+{
+	v[2]=VS(cur3,"X_Share");
+			
+			if(v[2]>v[1]) v[0]=v[0]+1;
+			
+}
+WRITES(cur2, "firm_rank", v[0]);
+}
+RESULT(0)
+
+
+/* ~~~~FORMA DA AULA~~~~
+
+EQUATION("RANK")
 SORT("FIRM", "X", "DOWN");
-/*
+
 Organizar as firmas por ordem decrescente
-*/
+
 v[0]=0;
 CYCLE(cur, "FIRM")
-/*
+
 O cur está me dizendo para passar por todas as firmas e a cada firma apontar para aquele endereço (o cur)
 
 O ciclo é um definidor de ponteiro (cur) em looping
-*/
+
 {
 	v[0]=v[0]+1;
-/*
+
 Pegue o valor anterior e some um na sua contagem (pode ser v[0]++)
-*/
+
 	WRITES(cur, "firm_rank", v[0]);
-/*
+
 Escrever especificamente o valor do meu ponteiro (número da firma), lembrando que cur armazena objeto, o ranking dela, dado o nível de produção dessa firma "v[0]"
 ou seja
 Escreva a cada valor específico apontado no cur o ranking da firma 
-*/
+
 }
 RESULT(0)
-		
+*/
+
+EQUATION("EntryExit")
+	v[0]=V("switch_entry");
+	if(v[0]==1)
+	{
+			cur=SEARCH_CND("firm_rank",10);
+			DELETE(cur);
+			cur1=SEARCH_CND("firm_rank",5);
+			
+//meu modelo tem 10 firmas, quero deletar a de último ranking e colocar uma replica da firma de ranking 5 no lugar
+			cur2=ADDOBJ_EX("FIRM", cur1);
+//Estou salvando a replica e adicionando na amostra de firmas (que volta a ter 10), chamei de cur2 para ser um atalho e não ter que escrevê-la sempre, salvei um ponteiro para o objeto, mas não precisava, poderia colocar direto, mas sempre que eu fosse usar, teria que colocar o nome todo de novo.
+			}
+RESULT(0)
+
+
 MODELEND
 
 // do not add Equations in this area

@@ -12,7 +12,7 @@ Label Root
 			Param: min
 			Var: c
 			Var: X_Share
-			Param: Firm_Rank
+			Param: firm_rank
 
 		}
 
@@ -47,7 +47,7 @@ Param: max 0 n + n n	1	1	1	1	1	1	1	1	1	1
 Param: min 0 n + n n	0	0	0	0	0	0	0	0	0	0
 Var: c 0 n + n n
 Var: X_Share 0 s + n n
-Param: Firm_Rank 0 s - n p	0	0	0	0	0	0	0	0	0	0
+Param: firm_rank 0 s + n p	0	0	0	0	0	0	0	0	0	0
 
 SIM_NUM 1
 SEED 1
@@ -144,8 +144,10 @@ _INIT_
 
 END_DESCRIPTION
 
-Parameter_Firm_Rank
+Parameter_firm_rank
 (no description available)
+_INIT_
+All 10 instances equal to 0.
 END_DESCRIPTION
 
 
