@@ -104,8 +104,8 @@ DESAFIO: POSIÇÃO DA FIRMA COM MAIOR X A CADA PERÍODO DE TEMPO
 
 EQUATION("X_Pos")
 	v[0]=V("X_Max");
-	cur1=SEARCH_CND("X",v[0]);
-	v[1]= SEARCH_INST(cur1);
+	cur=SEARCH_CND("X",v[0]);
+	v[1]= SEARCH_INST(cur);
 RESULT(v[1])
 
 /*
@@ -118,20 +118,30 @@ Essa variável deve fazer um CYCLE nas firmas e ESCREVER a posição da firma no ra
 */
 
 EQUATION("RANK")
+SORT("FIRM", "X", "DOWN");
+/*
+Organizar as firmas por ordem decrescente
+*/
 v[0]=0;
-CYCLE(cur2, "FIRM")
+CYCLE(cur, "FIRM")
+/*
+O cur está me dizendo para passar por todas as firmas e a cada firma apontar para aquele endereço (o cur)
+
+O ciclo é um definidor de ponteiro (cur) em looping
+*/
 {
-	v[1]=VS(cur2,"X_Share");
-CYCLE(cur3, "FIRM")
-{
-	v[2]=VS(cur3,"X_Share");
-			
-			if(v[2]>v[1]) v[0]=v[0]+1;
-			
+	v[0]=v[0]+1;
+/*
+Pegue o valor anterior e some um na sua contagem (pode ser v[0]++)
+*/
+	WRITES(cur, "firm_rank", v[0]);
+/*
+Escrever especificamente o valor do meu ponteiro (número da firma), lembrando que cur armazena objeto, o ranking dela, dado o nível de produção dessa firma "v[0]"
+ou seja
+Escreva a cada valor específico apontado no cur o ranking da firma 
+*/
 }
-v[3]=WRITES(cur2, "firm_rank", v[0]);
-}
-RESULT(v[3])
+RESULT(0)
 		
 MODELEND
 

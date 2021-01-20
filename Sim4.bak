@@ -12,6 +12,7 @@ Label Root
 			Param: min
 			Var: c
 			Var: X_Share
+			Param: Firm_Rank
 
 		}
 
@@ -20,6 +21,7 @@ Label Root
 		Var: X_Max
 		Var: X_Share_Sum
 		Var: X_Pos
+		Var: RANK
 
 	}
 
@@ -32,18 +34,20 @@ DATA
 Object: Root C	1
 
 Object: SECTOR C	1
-Var: X_Sum 0 s + n p
-Var: X_Ave 0 s + n p
-Var: X_Max 0 s + n p
-Var: X_Share_Sum 0 s + n p
-Var: X_Pos 0 s + n p
+Var: X_Sum 0 s + n n
+Var: X_Ave 0 s + n n
+Var: X_Max 0 s + n n
+Var: X_Share_Sum 0 s + n n
+Var: X_Pos 0 s + n n
+Var: RANK 0 s + n p
 
 Object: FIRM C	10
 Var: X 1 s + n n	0	0	0	0	0	0	0	0	0	0
 Param: max 0 n + n n	1	1	1	1	1	1	1	1	1	1
 Param: min 0 n + n n	0	0	0	0	0	0	0	0	0	0
 Var: c 0 n + n n
-Var: X_Share 0 s + n p
+Var: X_Share 0 s + n n
+Param: Firm_Rank 0 s - n p	0	0	0	0	0	0	0	0	0	0
 
 SIM_NUM 1
 SEED 1
@@ -97,6 +101,12 @@ _INIT_
 
 END_DESCRIPTION
 
+Variable_RANK
+(no description available)
+_INIT_
+
+END_DESCRIPTION
+
 Object_FIRM
 (no description available)
 _INIT_
@@ -132,6 +142,10 @@ Variável do Setor
 PARCELA DE CADA FIRMA
 _INIT_
 
+END_DESCRIPTION
+
+Parameter_Firm_Rank
+(no description available)
 END_DESCRIPTION
 
 
