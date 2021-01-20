@@ -98,6 +98,7 @@ SOMA DAS PARCELAS DE TODAS AS FIRMAS
 RESULT(SUM("X_Share"))
 
 /*
+Variável do Setor (a posição da firma no setor)
 DESAFIO: POSIÇÃO DA FIRMA COM MAIOR X A CADA PERÍODO DE TEMPO
 */
 
@@ -107,8 +108,31 @@ EQUATION("X_Pos")
 	v[1]= SEARCH_INST(cur1);
 RESULT(v[1])
 
+/*
+EXERCÍCIO 2.1 - EXTRA
+*/
 
+/*
+Variável do Setor
+Essa variável deve fazer um CYCLE nas firmas e ESCREVER a posição da firma no ranking no respectivo parâmetro "firm_rank" de cada firma
+*/
 
+EQUATION("RANK")
+v[0]=0;
+CYCLE(cur2, "FIRM")
+{
+	v[1]=VS(cur2,"X_Share");
+CYCLE(cur3, "FIRM")
+{
+	v[2]=VS(cur3,"X_Share");
+			
+			if(v[2]>v[1]) v[0]=v[0]+1;
+			
+}
+v[3]=WRITES(cur2, "firm_rank", v[0]);
+}
+RESULT(v[3])
+		
 MODELEND
 
 // do not add Equations in this area

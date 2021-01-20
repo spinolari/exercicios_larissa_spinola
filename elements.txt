@@ -1,2 +1,2 @@
-c X X_Ave X_Max X_Pos X_Share X_Share_Sum X_Sum
-max min
+c RANK X X_Ave X_Max X_Pos X_Share X_Share_Sum X_Sum
+firm_rank max min
