@@ -206,7 +206,7 @@ EQUATION("Price")
 
 //O preço corresponde ao ganho de market share passado dela.
 
-v[0]= VL("PRICE",1);
+v[0]= VL("Price",1);
 v[1]= VL("X_Share",2);
 v[2]=VL("X_Share",1);
 v[3]=V("a");
@@ -229,7 +229,7 @@ v[1]=V("b");
 v[2]=V("Quality");
 v[3]=V("c");
 //Parâmetro positivo entre 0 e 1 que multiplica a qualidade do produto e que vai impactar nas vendas
-v[4]=v[1]*v[0]+v[3]*v[2];
+v[4]=v[1]*v[0]+v[3]*v[2]+RND;
 RESULT(v[4])
 
 MODELEND

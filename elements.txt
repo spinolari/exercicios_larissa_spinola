@@ -1,2 +1,2 @@
 c EntryExit Price Quality RANK X X_Ave X_Max X_Pos X_Share X_Share_Sum X_Sum
-a b firm_rank max min PRICE switch_entry
+a b firm_rank max min switch_entry

@@ -224,12 +224,12 @@ EQUATION("X")
 //As vendas vão depender do preço, da qualidade e de um componente aleatório
 
 v[0]=V("Price");
-v[1]=V(b);
+v[1]=V("b");
 //Parâmetro positivo entre 0 e 1 que multiplica o preço do produto e que vai impactar nas vendas
 v[2]=V("Quality");
-v[3]=V(c);
+v[3]=V("c");
 //Parâmetro positivo entre 0 e 1 que multiplica a qualidade do produto e que vai impactar nas vendas
-v[4]=v[1]*v[0]+v[3]*v[2];
+v[4]=v[1]*v[0]+v[3]*v[2]+RND;
 RESULT(v[4])
 
 MODELEND
