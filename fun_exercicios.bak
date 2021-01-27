@@ -9,23 +9,23 @@ MODELBEGIN
 
 // insert your equations here, between the MODELBEGIN and MODELEND words
 
-EQUATION("X")
+//EQUATION("X") ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
 /*
 Variável X (short form)
 */
 
-RESULT(VL("X",1)+V("c"))
+//RESULT(VL("X",1)+V("c")) ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
 
 
-EQUATION("c")
+//EQUATION("c") ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
 /*
 Random walk
 */
 
-v[0]=V("min");
-v[1]=V("max");
-v[2]=uniform(v[0], v[1]);
-RESULT(v[2])
+//v[0]=V("min"); ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
+//v[1]=V("max"); ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
+//v[2]=uniform(v[0], v[1]); ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
+//RESULT(v[2]) ~~~TRANSFORMADO EM TEXTO PARA FAZER O EX 3~~~
 
 EQUATION("X_Sum")
 /*
@@ -177,6 +177,60 @@ EQUATION("EntryExit")
 			}
 RESULT(0)
 
+
+//EXERCÍCIO 3
+
+//X PASSA A SER AS VENDAS DE UMA FIRMA (MUDEI PARA TEXTO O COMEÇO DO SCRIPT QUE TINHA A DEFINIÇÃO DE X, JÁ QUE AGORA USAREMOS UMA NOVA)
+
+//AS VENDAR DEPENDEM DE DOIS FATORES ALÉM DO FATOR ALEATÓRIO (RND): QUALIDADE E PREÇO
+
+//DEFININDO A EQUAÇÃO DA QUALIDADE
+//VARIÁVEL NO NÍVEL DA FIRMA
+
+EQUATION("Quality")
+
+//A qualidade é cumulativa, aleatória e crescente. Caso a firma obtenha uma "qualidade" inferior à anterior, ela utiliza a anterior.
+
+v[0]=VL("Quality",2);
+v[1]=VL("Quality",1);
+if(v[1]>=v[0]) v[0]=v[0]+v[1]+RND;
+else v[0]=v[0];
+
+RESULT (v[0])
+
+
+//DEFININDO A EQUAÇÃO DO PREÇO
+//VARIÁVEL NO NÍVEL DA FIRMA
+
+EQUATION("Price")
+
+//O preço corresponde ao ganho de market share passado dela.
+
+v[0]= VL("PRICE",1);
+v[1]= VL("X_Share",2);
+v[2]=VL("X_Share",1);
+v[3]=V("a");
+//Parâmetro positivo que multiplica a variação de share que vai impactar o preço
+if (v[2]>v[1]) v[4]=((v[2]-v[1])/v[1])*v[3]+v[0];
+else v[4]=v[0];
+
+RESULT(v[4])
+
+//DEFININDO A EQUAÇÃO DAS VENDAS
+//VARIÁVEL NO NÍVEL DA FIRMA
+
+EQUATION("X")
+
+//As vendas vão depender do preço, da qualidade e de um componente aleatório
+
+v[0]=V("Price");
+v[1]=V(b);
+//Parâmetro positivo entre 0 e 1 que multiplica o preço do produto e que vai impactar nas vendas
+v[2]=V("Quality");
+v[3]=V(c);
+//Parâmetro positivo entre 0 e 1 que multiplica a qualidade do produto e que vai impactar nas vendas
+v[4]=v[1]*v[0]+v[3]*v[2];
+RESULT(v[4])
 
 MODELEND
 
